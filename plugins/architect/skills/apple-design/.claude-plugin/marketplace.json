@@ -1,0 +1,20 @@
+{
+  "name": "tzzs",
+  "description": "Personal collection of Apple-design-related Claude Code skills; currently includes apple-design (a design reference skill built on the official HIG)",
+  "owner": {
+    "name": "tanzz",
+    "email": "tanzz.dev@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "apple-design",
+      "source": "./",
+      "description": "Design reference skill built on Apple's official Human Interface Guidelines, covering design principles, Liquid Glass, Color, Typography, SF Symbols, components, and accessibility for iOS/iPadOS/macOS/watchOS/visionOS/tvOS",
+      "version": "1.0.0",
+      "author": {
+        "name": "tanzz",
+        "email": "tanzz.dev@gmail.com"
+      }
+    }
+  ]
+}

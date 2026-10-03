@@ -1,0 +1,10 @@
+{
+  "name": "apple-design",
+  "description": "Design reference skill built on Apple's official Human Interface Guidelines, covering design principles, Liquid Glass, Color, Typography, SF Symbols, components, and accessibility for iOS/iPadOS/macOS/watchOS/visionOS/tvOS",
+  "version": "1.0.0",
+  "author": {
+    "name": "tanzz",
+    "email": "tanzz.dev@gmail.com"
+  },
+  "keywords": ["apple", "hig", "human-interface-guidelines", "ios", "ipados", "macos", "watchos", "visionos", "design"]
+}

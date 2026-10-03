@@ -1,0 +1,13 @@
+{
+  "name": "alex-architect",
+  "owner": {
+    "name": "Alexander"
+  },
+  "plugins": [
+    {
+      "name": "architect",
+      "source": "./plugins/architect",
+      "description": "Личный стек Александра: стратег-оркестратор + скиллы под контент его голосом, карты, презентации, анализ сайтов."
+    }
+  ]
+}
