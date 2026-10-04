@@ -102,3 +102,27 @@
 - Аудитория площадок: https://www.business-gazeta.ru/news/707257
 - Рассрочки с 01.04.2026: https://getcourse.ru/magazine/pravila-rassrochki-s-1-04-2026
 - Рынок инфобизнеса 2025: https://edtechs.ru/analitika-i-intervyu/trendy-na-getcourse-kakim-byl-2025-god-dlya-infobiznesa/
+
+## Конверсионная статья и связка на диагностику (проход 04.10.2026)
+Разобраны аккаунты: bondar_idm, lena.mint, sofiko.maz, anarbachoo (профили, по 12 рилсов, три ролика целиком, каналы, анкета предзаписи). Что внутри ботов после слова — не видел.
+- Длинный текст против короткого: https://marketingexperiments.com/copywriting/long-copy-vs-short-copy-tested
+- Короткий выигрывает у готовых: https://marketingexperiments.com/copywriting/landing-page-optimization-conversion-increased-37-by-reducing-copy
+- Положение призыва: https://unbounce.com/conversion-rate-optimization/landing-page-cta-placement/ и https://cxl.com/blog/above-the-fold/
+- Один призыв, Whirlpool: https://www.marketingsherpa.com/article/case-study/whirlpool-lift-clickthrough-testing-culture
+- Первые экраны: https://www.nngroup.com/articles/scrolling-and-attention/
+- Чтение с телефона: https://www.nngroup.com/articles/mobile-content/
+- Great Leads (конспект): https://samueljwoods.com/great-leads-the-six-easiest-ways-to-start-any-sales-message-by-michael-masterson-john-forde/
+- Schwartz (конспект): https://taylorpearson.me/bookreview/breakthrough-advertising/
+- Неявка по сроку до встречи: https://reply.io/fight-demo-no-shows/
+- Повестка в приглашении: https://www.revenuehero.io/blog/ways-to-reduce-no-show-rates-in-sales-calls
+- Длина анкет: https://ventureharbour.com/how-form-length-impacts-conversion-rates/
+- Отбор до звонка: https://sakasandcompany.com/sales-pre-qualification-survey/
+- Таки Мур: https://www.salesmarketingprofit.com/podcast/11-triage
+- Кодовое слово, 918 роликов: https://blog.klipix.app/guides/kodovoe-slovo-v-kommentariyah
+- Шинкевич, воронка и отбор: https://alexandrshinkevich.com/myfunnel-2
+- Виденин: https://edvidenin.ru/blog/voronka-prodazh-dlya-eksperta
+- Метрики автоворонки: https://vc.ru/id1092247/3026902-metriky-avtovoronki-kak-ponyat-chto-voronka-rabotayet
+- Образцы статей: https://teletype.in/@kkostarev/kak_expertu_prodavat_na_vysokiy_chek , https://blog.pavelshiriaev.ru/voronka-za-3-dnya/ , https://teletype.in/@tata_zhe/Tata_Zhecheva
+- Ошибки статей: https://teletype.in/@amicevich/PrSTl0JBvUh
+- Доходимость до консультации: https://digitalexperts.tv/blog/dohodimost-do-konsultacii
+Не закрыто: прямых замеров «статья → заявка на разбор» на дорогом чеке нет; книги Шварца, Шугармана, Огилви взяты по конспектам.
