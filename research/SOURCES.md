@@ -69,3 +69,36 @@
 - Прямых экспериментов на дорогих решениях обеспеченной аудитории почти нет; перенос сделан по логике.
 - Цифры воронок взяты у агентств на их же клиентах, рынок США; на российской аудитории не проверялись.
 - Часть первоисточников не открылась (PMC, Wiley, PNAS); такие утверждения в скиллах помечены как спорные или не использованы.
+
+## Стратегия (проход 04.10.2026)
+- Rumelt, The Perils of Bad Strategy: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-perils-of-bad-strategy
+- Rumelt, The Crux (конспект): https://andrewclark.co.uk/all-media/the-crux
+- Теория ограничений: https://whichframework.org/frameworks/theory-of-constraints.html
+- Практики прогнозирования, Good Judgment Project: https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project/
+- Bezos, письмо 2016: https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders
+- Schoemaker, сценарное планирование: https://www.ftms.edu.my/images/Document/MOD001074%20-%20Strategic%20Management%20Analysis/WK4_SR_MOD001074_Schoemaker_1995.pdf
+- Porter, What Is Strategy: https://lumsa.it/sites/default/files/UTENTI/u95/LM51_ITA_What%20is%20Strategy%20-%20Porter.pdf
+- SWOT, Hill & Westbrook 1997: https://ftms.edu.my/images/Document/MOD001074%20-%20Strategic%20Management%20Analysis/WK6_SR_MOD001074_Hill_Westbrook_1997.pdf
+- BCG-матрица, Armstrong & Brodie: https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Effects-of-portfolio-planning-methods-empirical-results.pdf
+
+## Эмоциональный интеллект и ведение к изменению
+- Joseph & Newman 2010: https://www.shrm.org/content/dam/en/shrm/topics-tools/news/hr-magazine/Joseph-Newman-2010.pdf
+- Альянс, Flückiger 2018: https://societyforpsychotherapy.org/wp-content/uploads/2018/10/Fluckiger-et-al-2018-Alliance-MA-Online.pdf
+- Эмпатия, Elliott 2018: https://strathprints.strath.ac.uk/66200/1/Elliott_etal_Psychotherapy_2018_Therapist_empathy_and_client_outcome_an_updated.pdf
+- Слушание, Itzchakov & Kluger 2017: https://journals.sagepub.com/doi/abs/10.1177/0146167216675339
+- Спросить, а не угадывать, Eyal, Steffel, Epley 2018: https://www.sciencedaily.com/releases/2018/06/180621000339.htm
+- Мотивационное интервью, Magill 2018: https://www.appa-net.org/eWeb/docs/APPA/standards/A_Meta-Analysis_of_Motivational_Interviewing_Process.pdf
+- Привычки, Singh 2024: https://www.mdpi.com/2227-9032/12/23/2488
+- Делегирование у женщин-руководителей, Akinola 2018: https://ashleyemartin.com/files/2021/11/Akinola-Martin-Phillips-2018-Delegation-AMJ.pdf
+- Отзывчивость, Itzchakov & Reis 2023: https://cdn2.psychologytoday.com/assets/2024-05/Itzchakov%20&%20Reis%202023%20COP.pdf
+
+## Россия (состояние на 04.10.2026, тексты законов не читались)
+- Запрет рекламы на запрещённых площадках: https://www.garant.ru/article/1845542/
+- Письмо ФАС о собственных услугах: https://www.garant.ru/products/ipo/prime/doc/411919540/
+- Первое дело за рекламу в Instagram: https://adpass.ru/pervoe-delo-za-reklamu-v-instagram-2025/
+- ФАС о Telegram и YouTube: https://pravo.ru/news/262958/
+- Реестр блогеров: https://elama.ru/blog/registraciya-blogerov-v-roskomnadzore-gayd-po-novomu-zakonu/
+- Сбор 3%: https://elama.ru/blog/faq-po-sboru-3-za-dohod-ot-reklamy-otvechayut-eksperty-elama/
+- Аудитория площадок: https://www.business-gazeta.ru/news/707257
+- Рассрочки с 01.04.2026: https://getcourse.ru/magazine/pravila-rassrochki-s-1-04-2026
+- Рынок инфобизнеса 2025: https://edtechs.ru/analitika-i-intervyu/trendy-na-getcourse-kakim-byl-2025-god-dlya-infobiznesa/
